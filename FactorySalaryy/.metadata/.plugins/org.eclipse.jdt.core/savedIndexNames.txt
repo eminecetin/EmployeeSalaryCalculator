@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\emine\Desktop\FactorySalaryy\.metadata\.plugins\org.eclipse.jdt.core
+4092966757.index
+1865797976.index
+2988871618.index
